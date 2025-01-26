@@ -1,0 +1,303 @@
+{
+  "hotels": [
+    {
+      "id": "1",
+      "name": "Taj Palace",
+      "location": "Kakrola, Delhi",
+      "price": "16000",
+      "city": "Delhi",
+      "image": "/Delhi-2.jpg",
+      "additionalImages": [
+        "/taj1.jpg",
+        "/taj2.jpg",
+        "/taj3.jpg"
+      ],
+      "amenities": [
+        "Free Wifi",
+        "Elevator",
+        "Power Backup",
+        "Spa",
+        "Swimming Pool"
+      ],
+      "about": "Taj Palace offers luxurious accommodations with top-notch amenities, including a full-service spa and a stunning swimming pool."
+    },
+    {
+      "id": "2",
+      "name": "Nicoli",
+      "location": "Chanakyapuri, Delhi",
+      "price": "12000",
+      "city": "Delhi",
+      "image": "/Delhi-1.jpg",
+      "additionalImages": [
+        "/nicoli1.jpg",
+        "/nicoli2.jpg",
+        "/nicoli3.jpg"
+      ],
+      "amenities": [
+        "Gym",
+        "Restaurant",
+        "24/7 Front Desk",
+        "Free Parking",
+        "Conference Hall"
+      ],
+      "about": "Nicoli is situated in the heart of Delhi, offering excellent facilities such as a fully-equipped gym and conference halls for business travelers."
+    },
+    {
+      "id": "3",
+      "name": "Golden Tulip Essential",
+      "location": "Windsor Pl, Connaught Place, Delhi",
+      "price": "8099",
+      "city": "Delhi",
+      "image": "/Delhi-3.jpg",
+      "additionalImages": [
+        "/golden1.jpg",
+        "/golden2.jpg",
+        "/golden3.jpg"
+      ],
+      "amenities": [
+        "Air Conditioning",
+        "Television",
+        "Geyser",
+        "Parking",
+        "Pet Friendly"
+      ],
+      "about": "Golden Tulip Essential provides comfortable stays with amenities like air conditioning and pet-friendly policies, making it ideal for families."
+    },
+    {
+      "id": "4",
+      "name": "Hotel Park Victoria",
+      "location": "Dharmatala, Taltala, Kolkata",
+      "price": "10000",
+      "city": "Kolkata",
+      "image": "/kol-1.jpg",
+      "additionalImages": [
+        "/viccc.jpg",
+        "/victoria1.jpg",
+        "/victoria2.webp"
+      ],
+      "amenities": [
+        "Breakfast Included",
+        "Swimming Pool",
+        "Laundry Service",
+        "Restaurant",
+        "Bar"
+      ],
+      "about": "Hotel Park Victoria offers a delightful stay with complimentary breakfast, a relaxing swimming pool, and in-house dining options."
+    },
+    {
+      "id": "5",
+      "name": "Hotel Emirates",
+      "location": "Strand Rd, B.B.D. Bagh, Kolkata",
+      "price": "9000",
+      "city": "Kolkata",
+      "image": "/kol-2.jpg",
+      "additionalImages": [
+        "/emirates1.jpg",
+        "/emirates2.jpg",
+        "/golden3.jpg"
+      ],
+      "amenities": [
+        "Bar",
+        "Room Service",
+        "Airport Shuttle",
+        "Gym",
+        "Conference Room"
+      ],
+      "about": "Located on Strand Road, Hotel Emirates provides convenient services like airport shuttles and comprehensive room service for a seamless stay."
+    },
+    {
+      "id": "6",
+      "name": "ITC Royal",
+      "location": "Beck Bagan, Ballygunge, Kolkata",
+      "price": "14500",
+      "city": "Kolkata",
+      "image": "/kol-3.jpg",
+      "additionalImages": [
+        "/itc.jpeg",
+        "/itc2.jpg",
+        "/itc3.jpg"
+      ],
+      "amenities": [
+        "Non-Smoking Rooms",
+        "Conference Hall",
+        "Free Parking",
+        "Spa",
+        "Swimming Pool"
+      ],
+      "about": "ITC Royal offers premium accommodations with facilities like non-smoking rooms, extensive conference halls, and a luxurious spa."
+    },
+    {
+      "id": "7",
+      "name": "Goldfinch Hotel",
+      "location": "Apollo Bandar, Colaba, Mumbai",
+      "price": "19000",
+      "city": "Mumbai",
+      "image": "/mum-1.jpg",
+      "additionalImages": [
+        "/gold1.jpg",
+        "/gold2.jpg",
+        "/gold3.avif"
+      ],
+      "amenities": [
+        "Gym",
+        "Restaurant",
+        "Free Wifi",
+        "Pet Friendly",
+        "24/7 Front Desk"
+      ],
+      "about": "Situated in Colaba, Goldfinch Hotel provides top-tier amenities including a modern gym, pet-friendly rooms, and round-the-clock front desk services."
+    },
+    {
+      "id": "8",
+      "name": "Cozy Comforts Mumbai",
+      "location": "Nariman Point, Mumbai",
+      "price": "13999",
+      "city": "Mumbai",
+      "image": "/mum-2.jpg",
+      "additionalImages": [
+        "/cozy1.webp",
+        "/cozy2.jpeg",
+        "/cozy3.avif"
+      ],
+      "amenities": [
+        "Free Wifi",
+        "Elevator",
+        "Breakfast Included",
+        "Spa",
+        "Swimming Pool"
+      ],
+      "about": "Cozy Comforts Mumbai offers a comfortable stay with amenities like complimentary breakfast, a rejuvenating spa, and a refreshing swimming pool."
+    },
+    {
+      "id": "9",
+      "name": "Novotel",
+      "location": "Andheri, Mumbai",
+      "price": "10500",
+      "city": "Mumbai",
+      "image": "/novoo.webp",
+      "additionalImages": [
+        "/novo1.jpg",
+        "/novo2.jpg",
+        "/novo3.webp"
+      ],
+      "amenities": [
+        "Spa",
+        "Swimming Pool",
+        "Gym",
+        "Restaurant",
+        "Bar"
+      ],
+      "about": "Novotel in Andheri provides a blend of comfort and luxury with its spa facilities, fully-equipped gym, and exquisite dining options."
+    }
+  ],
+  "wishlist": [
+    {
+      "id": "7",
+      "name": "Cozy Comforts Mumbai",
+      "location": "Andheri, Mumbai",
+      "price": "₹950",
+      "city": "Mumbai",
+      "image": "link-to-image-7"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "a39f",
+      "name": "Your Name",
+      "email": "email@example.com",
+      "phone": "Phone Number",
+      "checkInDate": "2024-11-24T08:46:09.114Z",
+      "checkOutDate": "2024-11-25T08:46:09.114Z",
+      "rooms": 1,
+      "guests": 1,
+      "totalPrice": 14089,
+      "hotelName": "Cozy Comforts Mumbai",
+      "hotelLocation": "Nariman Point, Mumbai",
+      "dateBooked": "2024-11-24T08:46:13.423Z"
+    },
+    {
+      "id": "2a91",
+      "name": "",
+      "email": "",
+      "phone": "",
+      "checkInDate": "2024-11-24T09:09:05.464Z",
+      "checkOutDate": "2024-11-25T09:09:05.464Z",
+      "rooms": 3,
+      "guests": 7,
+      "totalPrice": 5640,
+      "hotelName": "Novotel",
+      "hotelLocation": "Andheri, Mumbai",
+      "dateBooked": "2024-11-24T09:09:15.852Z"
+    },
+    {
+      "id": "6d48",
+      "name": "",
+      "email": "",
+      "phone": "",
+      "checkInDate": "2024-11-24T09:10:50.454Z",
+      "checkOutDate": "2024-11-25T09:10:50.454Z",
+      "rooms": 1,
+      "guests": 1,
+      "totalPrice": 14089,
+      "hotelName": "Cozy Comforts Mumbai",
+      "hotelLocation": "Nariman Point, Mumbai",
+      "dateBooked": "2024-11-24T09:32:43.102Z"
+    },
+    {
+      "id": "613f",
+      "name": "Ansuman Choudhury",
+      "email": "ansuman18305@gmail.com",
+      "phone": "7978506631",
+      "checkInDate": "2024-11-24T09:34:01.041Z",
+      "checkOutDate": "2024-11-25T09:34:01.041Z",
+      "rooms": 1,
+      "guests": 1,
+      "totalPrice": 14089,
+      "hotelName": "Cozy Comforts Mumbai",
+      "hotelLocation": "Nariman Point, Mumbai",
+      "dateBooked": "2024-11-24T09:34:47.945Z"
+    },
+    {
+      "id": "89d0",
+      "name": "",
+      "email": "",
+      "phone": "",
+      "checkInDate": "2024-11-24T09:35:32.767Z",
+      "checkOutDate": "2024-11-25T09:35:32.767Z",
+      "rooms": 1,
+      "guests": 1,
+      "totalPrice": 14089,
+      "hotelName": "Cozy Comforts Mumbai",
+      "hotelLocation": "Nariman Point, Mumbai",
+      "dateBooked": "2024-11-24T09:35:37.414Z"
+    },
+    {
+      "id": "cd44",
+      "name": "",
+      "email": "",
+      "phone": "",
+      "checkInDate": "2024-11-23T18:30:00.000Z",
+      "checkOutDate": "2024-11-26T18:30:00.000Z",
+      "rooms": 3,
+      "guests": 7,
+      "totalPrice": null,
+      "hotelName": "Cozy Comforts Mumbai",
+      "hotelLocation": "Nariman Point, Mumbai",
+      "dateBooked": "2024-11-24T13:54:47.238Z"
+    },
+    {
+      "id": "2da3",
+      "name": "",
+      "email": "",
+      "phone": "",
+      "checkInDate": "2024-11-23T18:30:00.000Z",
+      "checkOutDate": "2024-11-26T18:30:00.000Z",
+      "rooms": 3,
+      "guests": 7,
+      "totalPrice": null,
+      "hotelName": "Cozy Comforts Mumbai",
+      "hotelLocation": "Nariman Point, Mumbai",
+      "dateBooked": "2024-11-24T13:56:51.774Z"
+    }
+  ]
+}
